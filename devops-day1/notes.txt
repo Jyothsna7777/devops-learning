@@ -1,0 +1,16 @@
+unix commands:
+pwd-present working directory
+cd=change directory
+mv-to move
+cp-to copy
+rm-to remove
+mkdir-make directory
+uname-about operating system
+ls-list of files
+ls -al -lists all hidden files
+ls -lrt- all files with desc
+kill= to kill the running processors
+ps- to see active processors
+top- to se running processors
+touch - to create files
+cat = to open the file
