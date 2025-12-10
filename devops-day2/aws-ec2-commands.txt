@@ -1,0 +1,15 @@
+Day-2: AWS EC2 + Linux Commands
+Instance Name: DevOps-EC2-Day2
+Public IP: 54.175.242.208
+
+Commands practiced:
+pwd
+ls -l
+mkdir day2
+...
+history
+
+What I learned:
+- How to launch EC2 instance
+- How to SSH into cloud server
+- Basic Linux commands on AWS
