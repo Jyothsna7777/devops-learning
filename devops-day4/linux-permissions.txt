@@ -1,0 +1,15 @@
+Day 4 – Linux Permissions
+
+r = read
+w = write
+x = execute
+
+chmod 644 → rw-r--r--
+chmod 755 → rwxr-xr-x
+
+chmod +x → make executable
+chmod 000 → no permissions
+
+Windows doesn’t enforce chmod like Linux/Mac.
+
+
