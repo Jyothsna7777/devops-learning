@@ -1,0 +1,19 @@
+Day 5 – Users & Groups
+
+Amazon Linux uses wheel group for sudo.
+useradd creates users.
+usermod -aG wheel gives sudo access.
+sudo provides temporary admin access.
+
+
+
+
+
+
+
+
+
+
+
+
+
